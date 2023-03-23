@@ -6,5 +6,3 @@ it focuses on working with remote repositories.
 This repository is built step by step in the tutorial.
 
 It now includes steps for GitHub too!
-
-This is modification for GitHub new branch.
